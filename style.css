@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+    margin: auto auto;
+}
+
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.head {
+    background-color: rgb(233, 207, 64);
+}
+
+.font {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.h2 {
+    padding: 10px;
+    background-color: blue;
+    color: white;
+}
+
+.list {
+    border-style: solid;
+    border-width: 5px;
+    border-color: grey;
+}
+
+.end {
+    text-align: center;
+    font-weight: bold ;
+    bottom: 0;
+}
